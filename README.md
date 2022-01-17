@@ -12,5 +12,6 @@ where operator can be one of the followings:
 - Cos
 - Tan
 - Cot
+.
 The format of Calculation responds which are sent from server to client should be as follows: <br/>
 $ calculation time $ result $ 
